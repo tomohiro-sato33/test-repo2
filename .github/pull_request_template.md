@@ -50,9 +50,3 @@
 
 ## testhoge
 -
-
-## testhoge2
--
-
-## testhoge3
--
