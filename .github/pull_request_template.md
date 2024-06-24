@@ -50,4 +50,3 @@
 
 ## testhoge
 - hogehoge
-- fugafuga
